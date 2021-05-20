@@ -4,7 +4,7 @@ This repository is to allow participants to the IASC Water Commons Social-Ecolog
 
 #Files
 - Baggio_Wk_SENA_IASCWaterCommons = presentation slides for the workshop in pdf 
-- IASC_Water_Gov_SENA = jupiter notebook that walks you through the process of building the figures and metrics used during the presentation
+- IASC_Water_Gov_SENA = jupiter notebook that walks you through the process of building the figures and metrics used in slides 13, 14 and 16
 - SENAWk = jupiter noteboook with prompts for SENA
 - Bnet = biophysical network to be used with SENAWk (format = edgelist in csv)
 - Snet = social/organizations network to be used with SENAWk (format = edgelist in csv)
